@@ -1,4 +1,4 @@
-from circulo import Circulo
+from circulo import 2.4 - Circulo
 from rectangulo import Rectangulo
 from cuadrado import Cuadrado
 from triangulo_rectangulo import TrianguloRectangulo
